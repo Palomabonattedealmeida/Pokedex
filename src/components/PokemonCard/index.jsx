@@ -14,6 +14,7 @@ export default function PokemonCard({ name, image, types }) {
         <CardContent>
           <Box display="flex" justifyContent="space-between" alignItems="center">
             <Typography gutterBottom variant="h5" component="div">
+
               {name}
             </Typography>
             <Typography gutterBottom variant="caption" component="div">

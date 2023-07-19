@@ -14,4 +14,7 @@ Foi utilizado o Framework React.Js
 <p float="left">
 
 <img src="imagemreact.png">
+<img src="reactRouter.jpg">
+<img src="pokeapi.jpg">
+<img src="mui.jpg">
 
